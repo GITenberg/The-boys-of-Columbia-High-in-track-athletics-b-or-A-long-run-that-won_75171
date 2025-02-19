@@ -1,0 +1,32 @@
+_repo: The-boys-of-Columbia-High-in-track-athletics-b-or-A-long-run-that-won_75171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Graham B.
+    gutenberg_agent_id: '2243'
+    url: http://www.gutenberg.org/2009/agents/2243
+description: ''
+gutenberg_issued: '2025-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75171'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435018452490&view=1up&seq=7
+pgterms:marc905: 20221124142849forbes
+pgterms:marc906: '1913'
+pgterms:marc907: us
+production_note: Aaron Adrignola, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bGrosset & Dunlap, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'High school students -- Juvenile fiction'
+- !lcsh 'Teenage boys -- Juvenile fiction'
+- !lcsh 'Track and field -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The boys of Columbia High in track athletics : $b or, A long run that won'
+url: http://www.gutenberg.org/ebooks/75171
